@@ -6,9 +6,9 @@ using namespace std;
 // Protótipo de funções
 void menu();
 float sum(float, float);
-float sub(float a, float b);
-float mult(float a, float b);
-float divis(float a, float b);
+float sub(float, float);
+float mult(float, float);
+float divis(float, float);
 
 int main(){
 
